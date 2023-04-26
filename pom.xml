@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>rs.raf</groupId>
-    <artifactId>domaci4</artifactId>
+    <artifactId>food-management</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>domaci4</name>
+    <name>food-management</name>
     <packaging>war</packaging>
 
     <properties>
